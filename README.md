@@ -19,4 +19,6 @@ Aqui no repositório você encontra o link para visualização do arquivo final 
 
 [Curso 2](https://docs.google.com/spreadsheets/d/1Kcpb4OgOwL6lLoSBnklRfYKgV75oUutUE-alodkmbP8/edit?usp=sharing)
 
+[Curso 3](https://docs.google.com/spreadsheets/d/1fSxm_RZGRBlktSVadBZLL7OMvI5WhtRNYYjrjyQ5QIU/edit?usp=sharing)
+
 *Repositório em construção* ⚠ 
