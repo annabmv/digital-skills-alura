@@ -15,10 +15,10 @@ Aqui no repositório você encontra o link para visualização do arquivo refere
 
 🧐 Acesse aqui:
 
-[Curso 1](https://docs.google.com/spreadsheets/d/15jTwZU1odKe99ct4KEOBj277rKCDeMQY1nmREpJBpfw/edit?usp=sharing)
+[Curso 1](https://docs.google.com/spreadsheets/d/e/2PACX-1vQBKgnzRvgMf-AcnZgbdCOk_742VK5W8pwYNQ2Be-QfqlndmysfkqowZVIcwpXhURS4QClKRwACnmsk/pubhtml)
 
-[Curso 2](https://docs.google.com/spreadsheets/d/1jv-73Aht0iUuAId1Am6rj059WBdiccME8Jiq3brHaRU/edit?usp=sharing)
+[Curso 2](https://docs.google.com/spreadsheets/d/e/2PACX-1vRnNDeAsNv57GBB2fWjC3NRswwkND9KVVU1BbOoUfiTg8eQLOWrCUommavwuwWJpYw7XntbMMf_bizU/pubhtml)
 
-[Curso 3](https://docs.google.com/spreadsheets/d/1H__0cltzG5nGztjG5onHqSOesizRl_zTeFr7MMrR0gE/edit?usp=sharing)
+[Curso 3](https://docs.google.com/spreadsheets/d/e/2PACX-1vTaccdRyhuLkQCavG382p1Iq0nnEQkNFvbT7toOOivmzp8LpSbXjHNmZNg-NqxmLeJtJPE88ooeVEaD/pubhtml)
 
-[Curso 4](https://docs.google.com/spreadsheets/d/1kqlwpc8o531jJfdRi4uVHAZTnFDpClmFZfh9YYw5Ytw/edit?usp=sharing)
+[Curso 4](https://docs.google.com/spreadsheets/d/e/2PACX-1vSafkzRWKk3ubEUjBmbJ4CIBn3FWN1wbSOM1ad1j42zPHMZZ_HSJ_83hCu37oeXUhj06rC6UXXRlvCK/pubhtml)
